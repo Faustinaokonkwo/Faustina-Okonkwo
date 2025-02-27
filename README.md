@@ -1,6 +1,15 @@
-# Faustina-Okonkwo Data Analysis Portfolio
-I am a data analyst with a passion for transforming raw data into meaningful insights. With expertise in Excel, SQL, and Tableau, I specialize in cleaning and organizing messy datasets, building interactive dashboards, writing efficient SQL queries, and automating reports using Excel formulas and Power Query.
+# Hi, I'm Faustina Okonkwo!  
+### **Data Analyst | SQL | Excel | Tableau | Power Query**  
+I am a **data analyst** with a passion for transforming raw data into meaningful insights. With expertise in **Excel, SQL, and Tableau**, I specialize in:  
+✅ Cleaning and organizing messy datasets  
+✅ Building interactive dashboards  
+✅ Writing efficient SQL queries  
+✅ Automating reports with Excel formulas and Power Query  
+
+---
+
 ## Featured Projects
+Here are some of my data analytics projects:  
 ### 1️⃣ Digigirls Data Analysis Capstone
 **Description:** - Query big data, sort and organise raw data  
 **Tools:** Postgresql, Excel
